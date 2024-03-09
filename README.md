@@ -1,4 +1,6 @@
-# College Website
+# College Portal
+
+![Preview](preview.png)
 
 Welcome to our college website! This multipage website serves as a comprehensive platform to showcase our institution's offerings, services, and resources.
 
