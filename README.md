@@ -12,5 +12,5 @@ Welcome to our college website! This multipage website serves as a comprehensive
 - **Contact Us:** Provides contact information for different departments and personnel within the college.
 
 
-## ***Hosted Link:*** [Eduford](https://earnest-malasada-1b41c3.netlify.app/)
+## ***Hosted Link:*** [CollegePortal](https://earnest-malasada-1b41c3.netlify.app/)
 ---
